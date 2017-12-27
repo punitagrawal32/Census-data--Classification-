@@ -1,0 +1,2 @@
+# Census-data--Classification-
+Predict whether income of an individual exceeds $50K/yr based on the census data The census data of about 30K individuals is given. The task is to predict if the income of an individual exceeds $50K per year, based on the general, educational and employment related attributes given in the data. Data Contains general, educational, employment related attributes. The attribute names are selfexplanatory
